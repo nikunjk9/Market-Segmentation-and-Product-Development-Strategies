@@ -54,9 +54,16 @@ In this section, we will explore Customer Segmentation through RFM (Recency, Fre
 we will identify customers who have been classified as "lost" based on their RFM (Recency, Frequency, Monetary) scores. These are customers whose recent activity, purchase frequency, and spending are all low. By focusing on the RFM class '111', which signifies low values across all three metrics, we can pinpoint the customers who are least engaged with the business. This analysis helps in understanding which customers have become inactive and may benefit from targeted re-engagement strategies.
 
 ## 9. Defining Customer Segments with RFM Levels?
+We focus on identifying loyal customers based on their RFM (Recency, Frequency, Monetary) scores, specifically looking at those with high frequency values. Loyal customers are characterized by their frequent purchases, which often indicates a strong and ongoing relationship with the business. By examining customers who fall into the higher quartiles for frequency, we can identify those who have demonstrated consistent purchasing behavior.
+
+## 10. Defining Customer Segments with RFM Levels
+This segmentation allows for targeted marketing strategies by identifying customers who are the most valuable and engaged, as well as those who may need additional incentives to increase their value to the business.
+
+## 11. Analyzing RFM Segments
+Calculate the average values for each RFM_Level and determine the size of each segment.
 
 
-
+<br>
 
 # Screenshots
  
